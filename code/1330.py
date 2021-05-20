@@ -1,0 +1,10 @@
+a,b=input().split()
+a=int(a)
+b=int(b)
+5
+6
+7
+8
+9
+10
+11
